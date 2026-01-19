@@ -25,7 +25,7 @@ question answering over complex, multi-document PDFs.
 - Gradio
 
 ## 🎥 Demo
-Video walkthrough: [Add Loom link here]
+Video walkthrough: (https://www.loom.com/share/8ea3b2c029a94c929a3906a76361f3f4)
 
 ## 📌 Use Case
 Designed for document-heavy workflows such as HR records, contracts, and financial documents,
